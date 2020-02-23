@@ -1,0 +1,173 @@
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+D:\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+D:\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+D:\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+D:\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\franc\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+D:\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\Utente\Desktop\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\franc\Desktop\SharpSolver\src\obj\Debug\SharpSolver.fsprojAssemblyReference.cache
+C:\Users\franc\Desktop\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\franc\Desktop\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\franc\Desktop\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\franc\Desktop\SharpSolver\src\obj\Debug\SharpSolver.pdb
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe.config
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.XML
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.exe
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\SharpSolver.pdb
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FSharp.Core.xml
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\FsLexYacc.Runtime.xml
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\System.ValueTuple.xml
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe.config
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.fsproj.CopyComplete
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.exe
+C:\Users\Utente\Desktop\Chiavetta\Corsi\Introduzione alla programmazione\Progetto\SharpSolver2.3\SharpSolver\src\obj\Debug\SharpSolver.pdb
